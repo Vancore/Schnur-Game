@@ -9,7 +9,8 @@ if (keyboard_check(vk_left)) x -= 4;
 if (keyboard_check(vk_up)) y -= 4;
 if (keyboard_check(vk_down)) y += 4;*/
 
-if (instance_exists(obj_player)) //&& !(mouse_x - obj_player.x < 10 && mouse_y - obj_player.y < 10)) 
+if (instance_exists(obj_player)) && (distance_to_point(mouse_x, mouse_y) > 100)
+//&& !(mouse_x - obj_player.x < 10 && mouse_y - obj_player.y < 10)) 
 {
 	//playerSpeed = 5;
 move_towards_point(mouse_x, mouse_y, playerSpeed);

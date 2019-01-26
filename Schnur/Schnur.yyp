@@ -154,7 +154,7 @@
             "Key": "866031df-27e6-42bf-88ee-aaabf7ec095c",
             "Value": {
                 "id": "f07b9b07-75bf-4479-b2fc-dec021905ab8",
-                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
                 "resourceType": "GMObject"
             }
         },
