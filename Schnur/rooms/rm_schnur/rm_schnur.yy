@@ -43,7 +43,7 @@
             "id": "e38f5ebb-1353-45d5-a7bb-1da9b24709e9",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4290543558 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -81,7 +81,7 @@
         "modelName": "GMRoomPhysicsSettings",
         "PhysicsWorld": true,
         "PhysicsWorldGravityX": 0,
-        "PhysicsWorldGravityY": 10,
+        "PhysicsWorldGravityY": 0,
         "PhysicsWorldPixToMeters": 0.1,
         "mvc": "1.0"
     },
