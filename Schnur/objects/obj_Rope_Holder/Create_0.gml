@@ -1,6 +1,7 @@
 offsetY=0;
 //create at 0 position
 offset = 0;
+ropelength = 150;
 host= self;
 //this is the object that hosts the rope
 
@@ -34,7 +35,7 @@ with (next_rope){
 	//!!! wir brauchen vllt keine sprites??
 	
 }
-repeat(100){
+repeat(ropelength){
 //we want to create many pieces of rope tied to each other
 //repeats the same junk of code 10 times
 //is almost like the first junk of code but we need the upper one to link it to the holding object
@@ -43,7 +44,7 @@ repeat(100){
 // 10 instances of the rope are generated here
 //!!! um die länge zu verändern müssen wir das repeat wahrscheinlich bearbeiten
 
-	offsetY += 64; 
+	offsetY += 1; 
 	//move down by 1 pixel
 	last_rope=next_rope;
 	//next rope is the first rope
@@ -60,13 +61,19 @@ repeat(100){
 	//false that they dont collide with each other 
 	// !!! vllt sollten wir das false dann ändern
 	
-	physics_joint_set_value( link, phy_joint_damping_ratio,1 );
+	physics_joint_set_value( link, phy_joint_damping_ratio,0.1 );
 	// springyness of the rope. it is holding on to itself
 	//!!! könnte hilfreich sein für die hombase 
-	physics_joint_set_value( link, phy_joint_frequency, 10);
+	physics_joint_set_value( link, phy_joint_frequency, 0);
 	// ferquency in which the rope updates per roomspeed step
+	
+	physics_joint_set_value( link, phy_joint_max_length,5);
+	
 	
 	with(next_rope){
 		parent = other.last_rope;
 	}
 }
+steadyhome = instance_create_layer(x,y, "Instances", obj_home);
+homebound = physics_joint_distance_create(last_rope, steadyhome, last_rope.x, last_rope.y, steadyhome.x, steadyhome.y, false );
+
