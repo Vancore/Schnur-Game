@@ -58,7 +58,7 @@
             "Key": "496d7525-7f68-436d-9ce0-a9b902099fac",
             "Value": {
                 "id": "6619ffa5-c253-4c01-ad53-8b5d7f9c74dd",
-                "resourcePath": "objects\\obj_rope\\obj_rope.yy",
+                "resourcePath": "objects\\obj_Rope\\obj_Rope.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -138,7 +138,7 @@
             "Key": "9f584074-d4db-4cc8-baf3-795ae74cba8c",
             "Value": {
                 "id": "ff6c626f-bcc9-4cdd-b9e6-4d851799f9a7",
-                "resourcePath": "objects\\obj_rope_holder\\obj_rope_holder.yy",
+                "resourcePath": "objects\\obj_Rope_Holder\\obj_Rope_Holder.yy",
                 "resourceType": "GMObject"
             }
         },

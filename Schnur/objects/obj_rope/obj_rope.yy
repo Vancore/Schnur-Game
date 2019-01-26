@@ -2,7 +2,7 @@
     "id": "496d7525-7f68-436d-9ce0-a9b902099fac",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_rope",
+    "name": "obj_Rope",
     "eventList": [
         {
             "id": "e9a35589-9bf6-4bcf-a1cf-a11c3682bc2d",
@@ -15,7 +15,7 @@
             "m_owner": "496d7525-7f68-436d-9ce0-a9b902099fac"
         },
         {
-            "id": "57675d10-1e74-46bd-9cac-6178b7dcbd6a",
+            "id": "1aed4961-8927-4678-867f-a65d62451c07",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -30,7 +30,7 @@
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
-    "physicsDensity": 0.1,
+    "physicsDensity": 0.5,
     "physicsFriction": 0.2,
     "physicsGroup": 0,
     "physicsKinematic": false,

@@ -2,9 +2,28 @@
     "id": "9f584074-d4db-4cc8-baf3-795ae74cba8c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_rope_holder",
+    "name": "obj_Rope_Holder",
     "eventList": [
-        
+        {
+            "id": "e7605400-1349-478c-9a8a-5b85aff9c8b2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9f584074-d4db-4cc8-baf3-795ae74cba8c"
+        },
+        {
+            "id": "463c1d52-6e7a-43a9-b45f-abfff662140a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9f584074-d4db-4cc8-baf3-795ae74cba8c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
