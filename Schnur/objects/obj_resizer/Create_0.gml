@@ -1,2 +1,2 @@
-spawnrate = 120;
+spawnrate = 60;
 alarm[0] = spawnrate;

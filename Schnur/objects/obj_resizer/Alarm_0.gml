@@ -1,5 +1,7 @@
 with (obj_player)
 {
-	image_xscale = 1;
+	image_xscale = max(image_xscale - 0.05, 1);
 	image_yscale = image_xscale;
 }
+alarm[0] = spawnrate;
+instance_destroy();
