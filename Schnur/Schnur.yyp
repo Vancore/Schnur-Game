@@ -118,7 +118,18 @@
             "Key": "1ec1fc76-0f1b-44c7-bdbb-87c07e8a57cf",
             "Value": {
                 "id": "b4a2e82f-b2cb-48e7-9460-b5fa43dce5d4",
-                "resourcePath": "objects\\obj_enemy_spawn\\obj_enemy_spawn.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemy_spawn\/obj_enemy_spawn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -164,15 +175,56 @@
             "Key": "38802501-dd69-4985-b90e-8c0906999d49",
             "Value": {
                 "id": "6c3cec2d-a4a1-4497-924d-2c84c4433d28",
-                "resourcePath": "objects\\obj_Rope_Holder\\obj_Rope_Holder.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_Rope_Holder\/obj_Rope_Holder.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "38eff844-d107-45de-b394-3360f2d2a60a",
+            "Value": {
+                "id": "7e5cef3f-6959-4beb-a54c-53b9d68e804c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_obstacle1\/spr_obstacle1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
             "Key": "3defea8d-d098-415a-8ca9-4f64cb87003d",
             "Value": {
                 "id": "9647bed3-7ae6-4c76-a8e5-e67bd7070cc1",
-                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite6\/sprite6.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -180,7 +232,18 @@
             "Key": "4789730a-c8a5-4e95-a0d9-300a2cfd2b10",
             "Value": {
                 "id": "b0d4e47d-450f-4a20-a376-4709e38a2fcd",
-                "resourcePath": "sprites\\sprite5\\sprite5.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite5\/sprite5.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -207,7 +270,18 @@
             "Key": "5ef805e4-8fc0-41af-9ca0-856754f519d5",
             "Value": {
                 "id": "b8e63c26-6eb0-471d-8edf-2312b353977b",
-                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite7\/sprite7.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,7 +289,18 @@
             "Key": "61cbcd09-35aa-4e8a-a278-a77086c26b2c",
             "Value": {
                 "id": "ccbe13ed-e22d-46e6-bc56-2341734fa330",
-                "resourcePath": "rooms\\rm_schnur\\rm_schnur.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_schnur\/rm_schnur.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -280,7 +365,18 @@
             "Key": "78350844-7d04-4bf6-bf8d-a3fe1dd5c7bf",
             "Value": {
                 "id": "05137c31-913f-4a6d-be06-4b2266446ce2",
-                "resourcePath": "tilesets\\til_ground\\til_ground.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/til_ground\/til_ground.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -383,7 +479,18 @@
             "Key": "866031df-27e6-42bf-88ee-aaabf7ec095c",
             "Value": {
                 "id": "f07b9b07-75bf-4479-b2fc-dec021905ab8",
-                "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemy_spawner\/obj_enemy_spawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -410,7 +517,18 @@
             "Key": "8a77b674-f827-4ef9-b34d-4009267c1839",
             "Value": {
                 "id": "8e4866d1-3b7d-4faf-8d96-66980a8a24ad",
-                "resourcePath": "sprites\\spr_ground\\spr_ground.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_ground\/spr_ground.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -456,7 +574,18 @@
             "Key": "94b28e4e-b87c-4eea-868a-0762d09f2571",
             "Value": {
                 "id": "75efdb94-0ce2-4f48-acdb-7c1aaf23180c",
-                "resourcePath": "objects\\obj_home\\obj_home.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_home\/obj_home.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -502,7 +631,18 @@
             "Key": "9fbf9655-a1db-434b-a750-bd1bd097aac3",
             "Value": {
                 "id": "3760c1ae-9818-49df-a884-a8ba8153afc7",
-                "resourcePath": "objects\\obj_Rope\\obj_Rope.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_Rope\/obj_Rope.yy",
                 "resourceType": "GMObject"
             }
         },
