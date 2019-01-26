@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "c4d16bc1-1066-4067-978d-dfcc0a84e623",
+            "Value": {
+                "id": "d0de3fdd-8232-4d9a-8cb6-c810ac982a24",
+                "resourcePath": "objects\\obj_resizer\\obj_resizer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c8041bd5-3179-422f-8f42-118b2b694365",
             "Value": {
                 "id": "f829882a-d59d-4e38-a863-d4d6eb40a676",

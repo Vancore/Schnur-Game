@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "rm_shootertut",
     "id": "7cbcda95-f903-4d9d-a53a-526cf35e2dd5",
     "creationCodeFile": "",
     "inheritCode": false,
