@@ -9,7 +9,13 @@ if (keyboard_check(vk_left)) x -= 4;
 if (keyboard_check(vk_up)) y -= 4;
 if (keyboard_check(vk_down)) y += 4;*/
 
-if (instance_exists(obj_player)) move_towards_point(mouse_x, mouse_y, playerSpeed);
+if (instance_exists(obj_player)) //&& !(mouse_x - obj_player.x < 10 && mouse_y - obj_player.y < 10)) 
+{
+	//playerSpeed = 5;
+move_towards_point(mouse_x, mouse_y, playerSpeed);
+/*} else {
+	playerSpeed = 0; */
+}
 
 //player object rotates towards mouse coordinates
 image_angle = point_direction(x,y,mouse_x, mouse_y);

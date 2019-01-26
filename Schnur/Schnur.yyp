@@ -58,7 +58,7 @@
             "Key": "1ec1fc76-0f1b-44c7-bdbb-87c07e8a57cf",
             "Value": {
                 "id": "b4a2e82f-b2cb-48e7-9460-b5fa43dce5d4",
-                "resourcePath": "objects\\obj_enemyspawn\\obj_enemyspawn.yy",
+                "resourcePath": "objects\\obj_enemy_spawn\\obj_enemy_spawn.yy",
                 "resourceType": "GMObject"
             }
         },

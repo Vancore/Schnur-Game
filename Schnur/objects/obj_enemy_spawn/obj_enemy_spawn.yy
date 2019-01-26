@@ -2,7 +2,7 @@
     "id": "1ec1fc76-0f1b-44c7-bdbb-87c07e8a57cf",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemyspawn",
+    "name": "obj_enemy_spawn",
     "eventList": [
         {
             "id": "d713ea6b-8623-42a6-bd93-f874ff2c35e8",
