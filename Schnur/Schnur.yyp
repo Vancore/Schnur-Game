@@ -130,7 +130,7 @@
             "Key": "7cbcda95-f903-4d9d-a53a-526cf35e2dd5",
             "Value": {
                 "id": "e54633e6-c270-4a06-8263-82ca6ff2a5d2",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\\rm_shootertut\\rm_shootertut.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -231,11 +231,35 @@
             }
         },
         {
+            "Key": "b5ab85c4-fdad-4644-ac0e-aa6457cb8511",
+            "Value": {
+                "id": "c8069ada-972d-4007-ad02-e5a96f14c91d",
+                "resourcePath": "rooms\\rm_character\\rm_character.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b692b18b-3fca-459d-83dc-c53b5ccc8de5",
             "Value": {
                 "id": "35e1ab62-c0a2-4990-b0f0-52066c7a00b9",
                 "resourcePath": "views\/b692b18b-3fca-459d-83dc-c53b5ccc8de5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8041bd5-3179-422f-8f42-118b2b694365",
+            "Value": {
+                "id": "f829882a-d59d-4e38-a863-d4d6eb40a676",
+                "resourcePath": "objects\\obj_item\\obj_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb96f6fc-e206-4e6b-9704-2b2ac8995392",
+            "Value": {
+                "id": "89a13106-50c6-40b1-8d40-148f7e85a724",
+                "resourcePath": "sprites\\spr_item\\spr_item.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -259,6 +283,14 @@
             "Value": {
                 "id": "096d1130-c524-4cd8-a0ec-b2d83958a535",
                 "resourcePath": "views\/cfa4a010-ec00-47b2-bcb0-d4845ff45fa6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7be403b-2575-41df-a351-efee0caa4259",
+            "Value": {
+                "id": "b971fbb7-4b46-43d4-80ab-5feb462c1635",
+                "resourcePath": "views\\b5ab85c4-fdad-4644-ac0e-aa6457cb8511-room.yy",
                 "resourceType": "GMFolder"
             }
         },
