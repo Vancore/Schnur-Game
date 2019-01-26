@@ -1,1 +1,1 @@
-countdown = 30;
+countdown = 10;
