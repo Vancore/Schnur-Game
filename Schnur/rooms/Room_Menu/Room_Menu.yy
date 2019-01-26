@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "Room_Menu",
     "id": "7cbcda95-f903-4d9d-a53a-526cf35e2dd5",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "15e68d97-013c-41ea-a05c-73ae03cd1921"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_2B286530","id": "15e68d97-013c-41ea-a05c-73ae03cd1921","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_2B286530.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2B286530","objId": "0fd84c9e-3d24-4228-bb35-9583939adc60","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 352}
             ],
             "layers": [
 
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "99942f53-aa5e-4022-ba42-95715f903b7d",
-        "Height": 768,
+        "Height": 720,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 1280
     },
     "mvc": "1.0",
     "views": [

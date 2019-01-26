@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "0fd84c9e-3d24-4228-bb35-9583939adc60",
+            "Value": {
+                "id": "69c755b5-9548-4c33-ba8a-4f06bc598260",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object_ButtonStart\/object_ButtonStart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1130eb8f-1842-4ce1-a509-30207f51fa56",
             "Value": {
                 "id": "6c20a3ca-45df-4a68-bcd4-757b3eb902dc",
@@ -55,6 +74,25 @@
                 ],
                 "resourcePath": "views\/1130eb8f-1842-4ce1-a509-30207f51fa56.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d9061a3-f13b-4c71-b18e-bad04a6192a2",
+            "Value": {
+                "id": "38e66f5a-4ee3-4758-813e-385730a42482",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object_Camera\/object_Camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -167,7 +205,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/Room_Menu\/Room_Menu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -324,6 +362,25 @@
             }
         },
         {
+            "Key": "be50d6e7-632b-4a16-8af0-a3831dfeb601",
+            "Value": {
+                "id": "65e55645-62cc-42a7-8b29-a586737a8c28",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite_ButtonStart\/sprite_ButtonStart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "f665e61f-6388-4fba-aed3-ed691828d7b0",
@@ -416,6 +473,25 @@
                 ],
                 "resourcePath": "views\/f50ca6ec-6cdf-4b22-93dd-ab47fd99efd7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fdb426c9-c728-42cd-abb7-8ffdc1a2c341",
+            "Value": {
+                "id": "45512964-f4b2-4e63-8d40-5a113149b9b0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Room_Game\/Room_Game.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
