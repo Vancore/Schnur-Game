@@ -5,7 +5,7 @@ ropelength = 150;
 host= self;
 //this is the object that hosts the rope
 
-next_rope = instance_create_layer(x,y +offsetY, "Instances", obj_Rope);
+next_rope = instance_create_layer(x,y +offsetY, "Layer_Instances", obj_Rope);
 //in tutorial aber alte version: instance_create(x , y + offsetY, obj_Rope);
 //offsetY is 0 (see above) but if we would change that it would increase
 
@@ -49,7 +49,7 @@ repeat(ropelength){
 	last_rope=next_rope;
 	//next rope is the first rope
 	//we want to store last rope in next rope
-	next_rope= instance_create_layer(x, y, "Instances", obj_Rope) ;
+	next_rope= instance_create_layer(x, y, "Layer_Instances", obj_Rope) ;
 	
 	link = physics_joint_distance_create(last_rope, next_rope, last_rope.x, last_rope.y, next_rope.x, next_rope.y, false )
 	//create link from this rope to last rope
@@ -74,6 +74,6 @@ repeat(ropelength){
 		parent = other.last_rope;
 	}
 }
-steadyhome = instance_create_layer(x,y, "Instances", obj_home);
+steadyhome = instance_create_layer(x,y, "Layer_Instances", obj_home);
 homebound = physics_joint_distance_create(last_rope, steadyhome, last_rope.x, last_rope.y, steadyhome.x, steadyhome.y, false );
 
